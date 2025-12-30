@@ -81,6 +81,7 @@ python train_model.py
 
 
 ## User Interface
+<img width="1917" height="913" alt="image" src="https://github.com/user-attachments/assets/50c8a7be-2e68-4592-a441-89e5d77a8d00" />
 
 
 
